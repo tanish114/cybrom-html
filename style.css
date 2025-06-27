@@ -27,3 +27,30 @@
     margin: 10px;
 
 }
+
+#n1{
+    border: 1px red solid;
+    border-radius: 6px;
+    padding: 5px;
+    padding-left: 30px;
+    padding-right: 30px;
+    background-color: black;
+    color: white;
+    
+}
+
+.n2{
+   /* for circle  */
+    width: 300px;  
+   height: 300px;
+   border-radius: 100%;
+
+   background-color:lightsalmon;
+    /* for getting text inside circle and to centre */
+
+   display: flex;
+  justify-content:center;
+  align-items: center;
+}
+
+
